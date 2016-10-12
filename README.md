@@ -1,1 +1,0 @@
-# shriyaamittal.github.io
