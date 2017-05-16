@@ -2,7 +2,15 @@ Visit https://shriyaamittal.github.io/
 
 ```
 $ jemdoc --version
-$ python jemdoc.py -c mysite.conf index
+```
+```
+$ python jemdoc.py -c google-analytics.conf index
+
+## OR just the following is fine, the modeline will add the script for the Google Analytics tracker
+
+$ python jemdoc.py index
+```
+```
 $ firefox index.html
 ```
 
