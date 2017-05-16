@@ -9,7 +9,7 @@ Equation support: yes.
   latex: pdfTeX 3.14159265-2.6-1.40.17 (TeX Live 2016).
     dvipng: This is dvipng (dvipng (TeX Live)) 1.15 Copyright 2002-2015 Jan-Ake Larsson.
 
-
+```
 $ python jemdoc.py -c mysite.conf index
-
 $ firefox index.html
+```
