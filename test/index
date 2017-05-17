@@ -1,34 +1,26 @@
 # jemdoc: menu{MENU}{index.html}
 # jemdoc: addcss{style.css}
+# jemdoc: title{Shriyaa Mittal}
+# jemdoc: analytics{UA-99332657-1}
 
-	= Shriyaa Mittal
-        Graduate Student <br> 
-            <a href="http://biophysics.illinois.edu/">Center for Biophysics and Quantitative Biology</a>
-            <br>University of Illinois at Urbana-Champaign
-	    <br>
-            <br>Office Address: 200 Roger Adams Laboratory
-            <br>600 S. Mathews Avenue
-	    <br>Urbana, IL 61801 - USA<br> 
-	    <br>
-             Email: smittal6 [at] illinois [dot] edu
-        </td>
-</tr>
-      <td>
-        <h2>About Me</h2>  
-        I am currently in the second year of my PhD in Biophysics at the University of Illinois at Urbana Champaign. I am advised by <a href="http://www.shuklagroup.org/diwakar-shukla/">Prof. Diwakar Shukla</a>. I did my undergraduate degree in Computer Science and MS in Computational Natural Science at <a href="http://iiit.ac.in/">IIIT, Hyderabad</a> working with <a href="http://www.iiit.ac.in/people/faculty/abi_chem/">Prof. Abhijit Mitra</a>. </br> </br>
-	I am a <a href="http://www.cse.illinois.edu/research/fellows">CSE Fellow </a>for the academic years 2016-2018 as part of the Computational Science and Engineering Program at University of Illinois (<a href="https://www.youtube.com/watch?v=4mTg-MzrzBY">video</a>).
-        </td>
-<tr>
-	<td>
-	<h2>Publications</h2>
-	<b>Mittal S</b> and Shukla D. An Algorithm to Predict Optimal EPR/DEER Label Positions to Study Protein Dynamics, Submitted (2017) <br> <br>
-	Selvam B, <b>Mittal S</b> and Shukla D. In silico Predictions of Conformational States of Bacterial Transporter PepT<sub>So</sub>, Submitted (2017) <br> <br>
-	Bhattacharya S, <b>Mittal S</b>, Panigrahi S, <i>et al</i>. RNABP COGEST: a resource for investigating functional RNAs, Database (2015)
-	</td>
-</tr>
+       	= Shriyaa Mittal
+        Graduate Student {{</br>}}
+       	[http://biophysics.illinois.edu/ Center for Biophysics and Quantitative Biology] {{</br>}}
+       	University of Illinois at Urbana-Champaign {{</br>}}
 
-</table>
-</body>
-</html>
-<!--h5>&copy; Shriyaa Mittal<h5>
+       	Office Address: 200 Roger Adams Laboratory {{</br>}}
+       	600 S. Mathews Avenue {{</br>}}
+       	Urbana, IL 61801 - USA {{</br>}}
+        Email: smittal6 \[at\] illinois \[dot\] edu
 
+       	== About Me
+        I am currently in the second year of my PhD in Biophysics at the University of Illinois at Urbana Champaign. I am advised by [http://www.shuklagroup.org/diwakar-shukla/ Prof. Diwakar Shukla]. I did my undergraduate degree in Computer Science and MS in Computational Natural Science at [http://iiit.ac.in/ IIIT, Hyderabad], India working with [http://www.iiit.ac.in/people/faculty/abi_chem/ Prof. Abhijit Mitra].
+
+       	I am a [http://www.cse.illinois.edu/research/fellows/ CSE Fellow] for the academic years 2016-2018 as part of the Computational Science and Engineering Program at University of Illinois ([https://www.youtube.com/watch?v=4mTg-MzrzBY/ video]).
+
+       	== Publications
+       	*Mittal S* and Shukla D. An Algorithm to Predict Optimal EPR/DEER Label Positions to Study Protein Dynamics, Submitted (2017)
+
+       	Selvam B, *Mittal S* and Shukla D. In silico Predictions of Conformational States of Bacterial Transporter PepT{{<sub>}}So{{</sub>}}, Submitted (2017)
+
+       	Bhattacharya S, *Mittal S*, Panigrahi S, et al. RNABP COGEST: a resource for investigating functional RNAs, Database (2015)
