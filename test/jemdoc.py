@@ -252,7 +252,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+  Page generated |. <br> &copy; Shriyaa Mittal
 
   [sourcelink]
   (<a href="|">source</a>)
