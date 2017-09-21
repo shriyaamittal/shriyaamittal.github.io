@@ -5,3 +5,4 @@ python jemdoc.py latin
 python jemdoc.py writing
 python jemdoc.py wheelock-translations
 python jemdoc.py fabulae-faciles-translations
+python jemdoc.py GHC-Blog-2017
