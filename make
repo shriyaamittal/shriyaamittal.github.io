@@ -1,8 +1,8 @@
 # Execute as: ./make
-python jemdoc.py index
-python jemdoc.py publications
-python jemdoc.py awards
-python jemdoc.py latin
-python jemdoc.py writing
-python jemdoc.py wheelock-translations
-python jemdoc.py fabulae-faciles-translations
+python2 jemdoc.py index
+python2 jemdoc.py publications
+python2 jemdoc.py awards
+python2 jemdoc.py latin
+python2 jemdoc.py writing
+python2 jemdoc.py wheelock-translations
+python2 jemdoc.py fabulae-faciles-translations
